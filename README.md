@@ -1,4 +1,7 @@
-### This is a project using Spring Boot and H2 database.
+## This is a project using Spring Boot and H2 database.
+
+### The project follow the below UML
+![alt text](https://github.com/CarvalhoMarcelo/Inatel_DM102/blob/master/AgenciaViagemUML.JPG)
 
 **Operational System:**
 
@@ -26,3 +29,5 @@ Alternative to run :
 Tips:
 - Check your java version in your terminal command prompt: `java --version`
 - Check your apache mavem version in your terminal command prompt: `mvn --version`
+
+
